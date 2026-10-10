@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn>=1.3
+matplotlib
+joblib
+torch
+streamlit>=1.50      # dashboard
+anthropic        # optional: enables the live LLM (Generative + Agentic AI). Works offline without it.

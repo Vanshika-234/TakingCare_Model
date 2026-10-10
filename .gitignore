@@ -1,0 +1,8 @@
+artifacts/*.joblib
+__pycache__/
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
